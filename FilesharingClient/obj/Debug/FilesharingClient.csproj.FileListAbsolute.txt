@@ -1,0 +1,10 @@
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\bin\Debug\FilesharingClient.exe.config
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\bin\Debug\FilesharingClient.exe
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\bin\Debug\FilesharingClient.pdb
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\obj\Debug\FilesharingClient.csprojResolveAssemblyReference.cache
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\obj\Debug\FilesharingClient.csproj.CoreCompileInputs.cache
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\obj\Debug\FilesharingClient.csproj.CopyComplete
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\obj\Debug\FilesharingClient.exe
+c:\users\павлове\source\repos\FilesharingClient\FilesharingClient\obj\Debug\FilesharingClient.pdb
