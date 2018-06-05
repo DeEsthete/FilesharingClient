@@ -53,7 +53,7 @@ namespace FilesharingClient
                     }
                 }
             }
-            catch (Exception exception)
+            catch (SocketException exception)
             {
                 Console.WriteLine(exception.Message);
             }
